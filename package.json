@@ -1,0 +1,27 @@
+{
+  "name": "mobile-brands-api",
+  "version": "1.0.0",
+  "description": "mobile brands api with node js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhav431/mobile-brands-api.git"
+  },
+  "author": "madhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhav431/mobile-brands-api/issues"
+  },
+  "homepage": "https://github.com/madhav431/mobile-brands-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
